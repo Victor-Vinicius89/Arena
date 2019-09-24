@@ -1,0 +1,6 @@
+name: Arena
+version: ${project.version}
+main: me.victorfaste.arena.Arena
+api-version: 1.13
+commands:
+  arena:
